@@ -16,7 +16,6 @@ class Event extends Model
         'start_datetime',
         'end_datetime',
         'category',
-        'event_count',
         'price',
         'contact',
         'address',

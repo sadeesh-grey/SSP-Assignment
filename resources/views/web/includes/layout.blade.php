@@ -50,7 +50,7 @@
                         <ul class="contact-list-one">
                             <li><i class="flaticon-location"></i> 203 Madison Ave, NY, USA <strong>Address</strong></li>
                             <li><i class="flaticon-alarm-clock-1"></i>Monday - Friday 9am - 6pm <strong>Timeing</strong></li>
-                            <li><i class="flaticon-email-1"></i> <a href="mailto:envato@gmail.com">envato@gmail.com</a> <strong>Mail to us</strong></li>
+                            <li><i class="flaticon-email-1"></i> <a href="mailto:cb009300@students.apiit.lk">cb009300@students.apiit.lk</a> <strong>Mail to us</strong></li>
                         </ul>
 
                         <button class="nav-toggler"><i class="flaticon flaticon-menu-2"></i></button>
@@ -176,7 +176,7 @@
                 <ul class="contact-list-one">
                     <li><i class="flaticon-location"></i> 203 Madison Ave, NY, USA <strong>Address</strong></li>
                     <li><i class="flaticon-alarm-clock-1"></i>Monday - Friday 9am - 6pm <strong>Timeing</strong></li>
-                    <li><i class="flaticon-email-1"></i> <a href="mailto:envato@gmail.com">envato@gmail.com</a> <strong>Mail to us</strong></li>
+                    <li><i class="flaticon-email-1"></i> <a href="mailto:cb009300@students.apiit.lk">cb009300@students.apiit.lk</a> <strong>Mail to us</strong></li>
                 </ul>
 
                 <ul class="social-links">
@@ -239,7 +239,7 @@
             <ul class="contact-list-one">
                 <li><i class="flaticon-location"></i> 203 Madison Ave, NY, USA <strong>Address</strong></li>
                 <li><i class="flaticon-alarm-clock-1"></i>Monday - Friday 9am - 6pm <strong>Timeing</strong></li>
-                <li><i class="flaticon-email-1"></i> <a href="mailto:envato@gmail.com">envato@gmail.com</a> <strong>Mail to us</strong></li>
+                <li><i class="flaticon-email-1"></i> <a href="mailto:cb009300@students.apiit.lk">cb009300@students.apiit.lk</a> <strong>Mail to us</strong></li>
             </ul>
         </div>
     </section>
@@ -266,7 +266,7 @@
                 <ul class="contact-list-one">
                     <li><i class="flaticon-location"></i> 203 Madison Ave, NY, USA <strong>Address</strong></li>
                     <li><i class="flaticon-alarm-clock-1"></i>Monday - Friday 9am - 6pm <strong>Timeing</strong></li>
-                    <li><i class="flaticon-email-1"></i> <a href="mailto:envato@gmail.com">envato@gmail.com</a> <strong>Mail to us</strong></li>
+                    <li><i class="flaticon-email-1"></i> <a href="mailto:cb009300@students.apiit.lk">cb009300@students.apiit.lk</a> <strong>Mail to us</strong></li>
                 </ul>
             </div>
         </div>

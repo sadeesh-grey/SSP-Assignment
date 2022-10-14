@@ -19,7 +19,7 @@ return new class extends Migration
             $table->datetime('start_datetime');
             $table->datetime('end_datetime');
             $table->string('category');
-            $table->string('event_count');
+            $table->string('event_count')->default('0');
             $table->string('contact');
             $table->string('address');
             $table->string('description');
